@@ -6,7 +6,7 @@ to me.
 Pros and Cons based on what I observed with Jasper's output
 
 Pros:
-It can record a screen video, video through webcam, and audio.
+It can record a screen video, and audio.
 Cons:
 It doesn't have an option to trim or loop both video and audio.
 ```
